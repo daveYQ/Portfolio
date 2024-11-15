@@ -4,6 +4,7 @@
   "type": "module",
   "version": "3.0.0",
   "private": true,
+  "packageManager": "npm@20.17.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

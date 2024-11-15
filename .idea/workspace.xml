@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9640801e-ae17-47c0-9d32-c51df2fbd823" name="Changes" comment="portfolio">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
+    <list default="true" id="9640801e-ae17-47c0-9d32-c51df2fbd823" name="Changes" comment="actions">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <workItem from="1731655242058" duration="89000" />
       <workItem from="1731655338964" duration="2434000" />
       <workItem from="1731659132299" duration="12000" />
-      <workItem from="1731661004203" duration="190000" />
+      <workItem from="1731661004203" duration="515000" />
     </task>
     <task id="LOCAL-00001" summary="portfolio">
       <option name="closed" value="true" />
@@ -87,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="portfolio" />
+    <MESSAGE value="actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="actions" />
   </component>
 </project>
