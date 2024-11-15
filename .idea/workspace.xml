@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9640801e-ae17-47c0-9d32-c51df2fbd823" name="Changes" comment="actions">
+    <list default="true" id="9640801e-ae17-47c0-9d32-c51df2fbd823" name="Changes" comment="fixed pnpm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SideBar.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBar.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SideBarMenu.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBarMenu.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/projects.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/projects.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/services.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/services.astro" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <workItem from="1731659132299" duration="12000" />
       <workItem from="1731661004203" duration="1210000" />
       <workItem from="1731662464618" duration="376000" />
-      <workItem from="1731663709929" duration="61000" />
+      <workItem from="1731663709929" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="portfolio">
       <option name="closed" value="true" />
@@ -94,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="portfolio" />
     <MESSAGE value="actions" />
-    <option name="LAST_COMMIT_MESSAGE" value="actions" />
+    <MESSAGE value="fixed pnpm" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed pnpm" />
   </component>
 </project>
