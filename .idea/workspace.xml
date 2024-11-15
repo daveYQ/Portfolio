@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9640801e-ae17-47c0-9d32-c51df2fbd823" name="Changes" comment="fixed pnpm">
+    <list default="true" id="9640801e-ae17-47c0-9d32-c51df2fbd823" name="Changes" comment="added base to link">
+      <change afterPath="$PROJECT_DIR$/public/logo.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SideBar.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBar.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SideBarMenu.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBarMenu.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cv.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cv.astro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.astro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/projects.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/projects.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/services.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/services.astro" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/School/Portfolia_SYP/public&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/User/Documents/Portfolio/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Portfolio\public" />
       <recent name="C:\Users\User\Documents\School\Portfolia_SYP\public" />
     </key>
   </component>
@@ -76,7 +75,7 @@
       <workItem from="1731659132299" duration="12000" />
       <workItem from="1731661004203" duration="1210000" />
       <workItem from="1731662464618" duration="376000" />
-      <workItem from="1731663709929" duration="669000" />
+      <workItem from="1731663709929" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="portfolio">
       <option name="closed" value="true" />
@@ -96,6 +95,7 @@
     <MESSAGE value="portfolio" />
     <MESSAGE value="actions" />
     <MESSAGE value="fixed pnpm" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed pnpm" />
+    <MESSAGE value="added base to link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added base to link" />
   </component>
 </project>

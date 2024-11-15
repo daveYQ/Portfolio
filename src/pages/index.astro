@@ -2,6 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import HorizontalCard from "../components/HorizontalCard.astro";
 import createSlug from "../lib/createSlug"
+import Projects from "./projects.astro";
 ---
 
 <BaseLayout sideBarActiveItemID="home">
@@ -23,29 +24,31 @@ import createSlug from "../lib/createSlug"
   </div>
 
   <div>
-    <div class="text-3xl w-full font-bold mb-2">My last projects {"</>"}</div>
+    <div class="text-3xl w-full font-bold mb-2">My favourite projects {"</>"}</div>
   </div>
 
   <HorizontalCard
-    title="Demo Project 1"
-    img="/portfolio/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="NEW"
+      title="Capify"
+      img="/portfolio/logo.ico"
+      desc="Made for managing the finances of households, collecting all in- and outcomes and visualizing the data."
+      url="#"
+      badge="WIP, Angular, Spring Boot"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
-    title="Demo Project 2"
+    title="Dating App 'Swiper'"
     img="/portfolio/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    desc="A dating app, using swipe functionality to find the perfect match."
     url="#"
+    badge="Angular, ASP.Net"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
-    title="Demo Project 3"
+    title="MBot Software"
     img="/portfolio/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    desc="A software made to controll a small driving vehicle, a so called 'MBot'."
     url="#"
-    badge="FOSS"
+    badge="Python, Avalonia, Spring Boot"
   />
+  <div class="divider my-0"></div>
 </BaseLayout>
