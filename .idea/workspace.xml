@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9640801e-ae17-47c0-9d32-c51df2fbd823" name="Changes" comment="added base to link">
-      <change afterPath="$PROJECT_DIR$/public/logo.ico" afterDir="false" />
+    <list default="true" id="9640801e-ae17-47c0-9d32-c51df2fbd823" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cv.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cv.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/projects.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/projects.astro" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <workItem from="1731659132299" duration="12000" />
       <workItem from="1731661004203" duration="1210000" />
       <workItem from="1731662464618" duration="376000" />
-      <workItem from="1731663709929" duration="1865000" />
+      <workItem from="1731663709929" duration="2136000" />
     </task>
     <task id="LOCAL-00001" summary="portfolio">
       <option name="closed" value="true" />
